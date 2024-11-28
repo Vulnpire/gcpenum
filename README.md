@@ -1,10 +1,8 @@
 # GCP Enumerator
-=====================
 
 is a Go-based tool designed to scan Google Cloud Storage (GCS) buckets for existence and accessibility. It leverages keyword-based permutations or custom wordlists to identify potential bucket names, checking their status and attempting to list accessible objects.
 
 Features
---------Features
 --------
 
 - Keyword-Based Permutations: Generate bucket names based on a single keyword or multiple keywords from a file.
